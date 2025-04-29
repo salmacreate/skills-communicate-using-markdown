@@ -1,5 +1,9 @@
 # Markdown Basics
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ###  HTML Example in Markdown
 
 ```html
@@ -14,3 +18,4 @@
     <p>This is a paragraph in HTML.</p>
   </body>
 </html>
+
